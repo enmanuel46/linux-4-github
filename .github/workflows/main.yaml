@@ -1,5 +1,5 @@
-name: free vps 100% no virus 2027
-run-name: ${{ github.actor }} is running a VPS.
+name: Ubuntu 26.04 LTS
+run-name: ${{ github.actor }} is running Ubuntu 26.04 LTS.
 on: workflow_dispatch
 jobs:
   Explore-GitHub-Actions:
