@@ -3,6 +3,6 @@ run-name: ${{ github.actor }} is running a VPS.
 on: workflow_dispatch
 jobs:
   Explore-GitHub-Actions:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     steps:
       - run: curl -sSf https://sshx.io/get | sh -s run
