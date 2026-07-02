@@ -1,5 +1,5 @@
-name: GitHub Actions Demo
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+name: free vps 100% no virus 2027
+run-name: ${{ github.actor }} is running a VPS.
 on: workflow_dispatch
 jobs:
   Explore-GitHub-Actions:
