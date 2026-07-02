@@ -1,8 +1,0 @@
-name: macOS 26
-run-name: ${{ github.actor }} is running macOS 26.
-on: workflow_dispatch
-jobs:
-  Explore-GitHub-Actions:
-    runs-on: macos-26
-    steps:
-      - run: curl -sSf https://sshx.io/get | sh -s run
